@@ -8,5 +8,5 @@ Tested with
 Forked from [http://sourceforge.net/p/libdmtx/libdmtx/ci/master/tree/](http://sourceforge.net/p/libdmtx/libdmtx/ci/master/tree/)
 on 2015-04-03.
 
-Some work was doen by the original maintainers towards a 0.7.5 release but the
+Some work was done by the original maintainers towards a 0.7.5 release but the
 last release was 0.7.4 so this repo is based on the v0.7.4 tag.
