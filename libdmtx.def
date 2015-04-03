@@ -1,0 +1,19 @@
+LIBRARY   libdmtx
+EXPORTS
+	dmtxDecodeCreate		@1
+	dmtxDecodeDestroy		@2
+	dmtxDecodeMatrixRegion	@3
+	dmtxDecodeSetProp		@4
+	dmtxEncodeCreate		@5
+	dmtxEncodeDataMatrix	@6
+	dmtxEncodeDestroy		@7
+	dmtxEncodeSetProp		@8
+	dmtxImageCreate			@9
+	dmtxImageDestroy		@10
+	dmtxImageGetPixelValue	@11
+	dmtxMatrix3VMultiplyBy	@12
+	dmtxMessageDestroy		@13
+	dmtxRegionDestroy		@14
+	dmtxRegionFindNext		@15
+	dmtxTimeAdd				@16
+	dmtxTimeNow				@17
