@@ -1,6 +1,8 @@
 Win32
 x64
+Debug
 *.sdf
 *.suo
 *.filters
 *.user
+*.opensdf
