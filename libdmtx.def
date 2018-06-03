@@ -17,3 +17,4 @@ EXPORTS
 	dmtxRegionFindNext		@15
 	dmtxTimeAdd				@16
 	dmtxTimeNow				@17
+	dmtxImageGetProp		@18
