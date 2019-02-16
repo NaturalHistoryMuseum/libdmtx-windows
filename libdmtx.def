@@ -18,3 +18,4 @@ EXPORTS
 	dmtxTimeAdd				@16
 	dmtxTimeNow				@17
 	dmtxImageGetProp		@18
+	dmtxVersion				@19
